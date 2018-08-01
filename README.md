@@ -1,2 +1,11 @@
-# analyse-redux-famaly
-深入解毒redux及相关middleware的源码，体验函数式之美，后期会出解毒系列心得
+这个repo是用来研究redux全家桶时，写demo用的。
+如果想启动demo，需要全局安装` npx `
+
+```
+# 安装依赖
+yarn
+
+# 启动
+yarn start
+
+```
